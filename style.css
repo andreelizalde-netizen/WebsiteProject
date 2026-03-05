@@ -2,6 +2,10 @@ h1 {
 color: rgb(242, 133, 28);
 }
 
+title {
+  color: rgb(242, 133, 28);
+}
+  
 body {
   background-color: black;
 }
